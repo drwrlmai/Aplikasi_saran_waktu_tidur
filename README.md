@@ -1,4 +1,4 @@
-# Aplikasi_saran_waktu_tidur
+yu# Aplikasi_saran_waktu_tidur
 Mini proyek coding mata kuliah Pemrograman Dasar 
 ##   Identitas Mahasiswa 
 -	Nama: Dara Puspita
@@ -59,4 +59,6 @@ Printf disini adalah sintaks untuk menmunculkan output dengan format tertentu, s
 15. scanf("%d", &variabel)
 Sintaks ini digunakan untuk membaca input dari pengguna dan menyimpannya di tempat yang sudah kita buat. Fungsinya adalah untuk mengambil data yang dimasukkan pengguna dan menyimpannya untuk digunakan kembali nanti.
  
+##Link Vidio Demo
+https://youtu.be/I8viDEiBjmQ?si=L_SKs-MA7q5byjfw
 
